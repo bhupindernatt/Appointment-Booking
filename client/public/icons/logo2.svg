@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 5000 5000">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st1 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st2 {
+        fill: url(#linear-gradient9);
+      }
+
+      .st3 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st4 {
+        fill: url(#linear-gradient6);
+      }
+
+      .st5 {
+        fill: url(#linear-gradient8);
+      }
+
+      .st6 {
+        fill: url(#linear-gradient7);
+      }
+
+      .st7 {
+        fill: url(#linear-gradient5);
+      }
+
+      .st8 {
+        fill: url(#linear-gradient4);
+      }
+
+      .st9 {
+        fill: url(#linear-gradient);
+      }
+
+      .st10 {
+        fill: #fff;
+      }
+
+      .st11 {
+        fill: #8bc53f;
+      }
+
+      .st12 {
+        fill: #0071bb;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="2602.22" y1="2777.48" x2="2602.51" y2="2777.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8bc53f"/>
+      <stop offset=".32" stop-color="#88c23c"/>
+      <stop offset=".54" stop-color="#81b935"/>
+      <stop offset=".73" stop-color="#74aa28"/>
+      <stop offset=".9" stop-color="#629416"/>
+      <stop offset="1" stop-color="#548408"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="2628.34" y1="2983.98" x2="3378.57" y2="2815.07" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient2" x1="2475.86" y1="1866.43" x2="2680.43" y2="1714.63" gradientTransform="translate(2008.23 -1350.38) rotate(45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0071bb"/>
+      <stop offset=".33" stop-color="#006fb8"/>
+      <stop offset=".55" stop-color="#006aaf"/>
+      <stop offset=".74" stop-color="#0062a0"/>
+      <stop offset=".91" stop-color="#00578a"/>
+      <stop offset="1" stop-color="#00507c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="1909.93" y1="2595.93" x2="2627.35" y2="2432.33" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0071bb"/>
+      <stop offset=".39" stop-color="#006fb8"/>
+      <stop offset=".59" stop-color="#006bb0"/>
+      <stop offset=".75" stop-color="#0064a3"/>
+      <stop offset=".89" stop-color="#005a90"/>
+      <stop offset="1" stop-color="#00507c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient4" x1="1792.81" y1="2253.95" x2="3017.45" y2="1029.31" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient5" x1="2166.07" y1="2217.06" x2="2319.87" y2="2217.06" gradientTransform="translate(2224.65 -936.66) rotate(45)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient6" x1="2120" y1="2465.43" x2="2265.1" y2="2465.43" gradientTransform="translate(2385.5 -828.26) rotate(45)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient7" x1="1871.54" y1="2334.43" x2="2007.94" y2="2334.43" gradientTransform="translate(4166.93 512.12) rotate(83.46)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient8" x1="1735.3" y1="2540.47" x2="1863" y2="2540.47" gradientTransform="translate(2896.21 -61.82) rotate(54.02)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient9" x1="1567.16" y1="2707.1" x2="1686.15" y2="2707.1" gradientTransform="translate(2935.93 117.39) rotate(54.02)" xlink:href="#linear-gradient3"/>
+  </defs>
+  <rect class="st10" x="0" width="5000" height="5000"/>
+  <g>
+    <g>
+      <path class="st9" d="M2602.54,2777.25c-.07.1-.14.21-.21.31-.01.02-.03.04-.04.06.05,0,.1-.02.14-.02.04-.11.08-.23.11-.34Z"/>
+      <path class="st1" d="M2819.47,2451.9c-38.68,115.09-89.35,220.98-151.15,316.01,275.49-36.46,1126.02-102.53,422.5,600.99,0,0,1167.92-702.99-271.35-917Z"/>
+    </g>
+    <path class="st11" d="M3070.13,2500c262.12,159.77,308.66,328.64,292.39,454.58-1.59,22.2-7.16,46.64-17.26,73.53-26.08,76.46-68.2,124.61-68.22,124.63-43.16,62.42-104.1,134.05-186.21,216.16,0,0,1019.69-613.78-20.7-868.9Z"/>
+    <circle class="st0" cx="2634.16" cy="1748.96" r="191.55" transform="translate(-465.17 2374.89) rotate(-45)"/>
+    <path class="st12" d="M2634.16,1557.41c-67.24,0-126.35,34.68-160.53,87.09,12.48-2.56,25.41-3.9,38.64-3.9,105.79,0,191.55,85.76,191.55,191.55,0,38.55-11.43,74.41-31.02,104.46,87.27-17.88,152.91-95.1,152.91-187.65,0-105.79-85.76-191.55-191.55-191.55Z"/>
+    <path class="st3" d="M1576.29,2359.42s732.98-589.19,822.13-150.2c103.71,510.71-584.98,1106.72-1264.82,1114.62,0,0,1326.99,192.11,1658.22-948.58,270.48-931.49-963.37-529.9-1215.53-15.84Z"/>
+    <path class="st11" d="M3286.8,1437.24c-197.21-127.24-432.11-201.09-684.26-201.09-698.01,0-1263.86,565.85-1263.86,1263.86,0,10.35.13,20.67.38,30.96,16.15-650.04,548.16-1172.04,1202.09-1172.04,244.23,0,471.45,72.82,661.15,197.92,30.93-36.41,59.12-76.28,84.5-119.6Z"/>
+    <path class="st8" d="M2541.15,1291.31c-580.82,0-1065.43,411.8-1177.86,959.36-3.79,18.94-7.18,38.03-10.11,57.27-1.83,28.01-2.78,56.33-2.78,84.95,0,.03,0,.08,0,.11,81.89-584.38,583.8-1034.08,1190.76-1034.08,244.23,0,471.45,72.82,661.15,197.92,14.97-17.63,29.29-36.08,42.97-55.33-189.98-117.49-470.59-210.2-704.12-210.2Z"/>
+    <path class="st12" d="M3354.13,1483.83c-13.5,24.69-28.38,48.68-44.07,72.07-11.76,17.54-23.92,34.8-36.2,51.97,285.67,219.84,469.76,565.18,469.76,953.51,0,653.93-522,1185.94-1172.04,1202.09,10.29.25,20.61.38,30.96.38,698.01,0,1263.86-565.85,1263.86-1263.86,0-416.49-201.47-785.92-512.27-1016.17Z"/>
+    <path class="st12" d="M2634.16,1871.48s561.13,29.02,781.68-597.81c0,0-48.47,739.07-781.68,852.25v-254.43Z"/>
+    <path class="st12" d="M1576.29,2359.42s377.69-303.59,623.81-312.55c.1-.02,537.6-86.83,402.22,730.68,78.23-111.11,143.48-243.83,189.5-402.3,270.48-931.49-963.37-529.9-1215.53-15.84Z"/>
+    <circle class="st7" cx="2242.97" cy="2217.06" r="76.9" transform="translate(-910.74 2235.38) rotate(-45)"/>
+    <circle class="st4" cx="2192.55" cy="2465.43" r="72.55" transform="translate(-1101.14 2272.48) rotate(-45)"/>
+    <circle class="st6" cx="2068.81" cy="2705.1" r="68.2" transform="translate(-1092.06 3972.56) rotate(-74.44)"/>
+    <circle class="st5" cx="1897.68" cy="2886.56" r="63.84" transform="translate(-1485.29 2187.32) rotate(-45)"/>
+    <circle class="st2" cx="1701.21" cy="3024.1" r="59.49" transform="translate(-1640.09 2088.68) rotate(-45)"/>
+  </g>
+</svg>
