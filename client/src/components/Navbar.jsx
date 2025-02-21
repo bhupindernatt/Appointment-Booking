@@ -5,7 +5,7 @@ import { useState } from "react"
 const Navbar = () => {
   const navigate = useNavigate()
 
-  const [showMenu, setShowMenu] = useState(false) // TODO: show Menu option 
+  const [showMenu, setShowMenu] = useState(false) // TODO: show Menu option
   const [token, setToken] = useState(true) // User is logged in if true
 
   return (
@@ -19,21 +19,21 @@ const Navbar = () => {
         <h3 className="font-semibold text-xl text-gray-700 pt-2">CareHub</h3>
       </div>
 
-      <ul className="hidden md:flex items-start gap-5 frot-medium">
+      <ul className="hidden md:flex items-start gap-5 font-medium">
         <NavLink to="/">
-          <li className="py-1">HOME</li>
+          <li className="py-1 hover:text-primary">HOME</li>
           <hr className="border-none outline-none h-0.5 bg-secondary w-3/5 m-auto hidden" />
         </NavLink>
         <NavLink to="/doctors">
-          <li className="py-1">ALL DOCTORS</li>
+          <li className="py-1 hover:text-primary">ALL DOCTORS</li>
           <hr className="border-none outline-none h-0.5 bg-secondary w-3/5 m-auto hidden" />
         </NavLink>
         <NavLink to="/about">
-          <li className="py-1">ABOUT</li>
+          <li className="py-1 hover:text-primary">ABOUT</li>
           <hr className="border-none outline-none h-0.5 bg-secondary w-3/5 m-auto hidden" />
         </NavLink>
         <NavLink to="/contact">
-          <li className="py-1">CONTACT</li>
+          <li className="py-1 hover:text-primary">CONTACT</li>
           <hr className="border-none outline-none h-0.5 bg-secondary w-3/5 m-auto hidden" />
         </NavLink>
       </ul>
