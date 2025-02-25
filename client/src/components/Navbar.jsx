@@ -10,13 +10,15 @@ const Navbar = () => {
 
   return (
     <div className="flex items-center justify-between text-sm py-2 mb-5 border-b border-b-gray-400">
-      <div className="flex items-center">
+      <div className="flex items-center" onClick={() => navigate("/")}>
         <img
-          className="w-15 cursor-pointer mr-2 "
+          className="w-15 cursor-pointer mr-2"
           src={assets.icon_brand}
           alt="BrandLogo"
         />
-        <h3 className="font-semibold text-xl text-gray-700 pt-2">CareHub</h3>
+        <h3 className="font-semibold text-xl cursor-pointer text-gray-700 pt-2">
+          CareHub
+        </h3>
       </div>
 
       <ul className="hidden md:flex items-start gap-5 font-medium">
@@ -70,7 +72,7 @@ const Navbar = () => {
         ) : (
           <button
             onClick={() => navigate(`/login`)}
-            className="bg-primary text-white px-8 py-3 rounded-full font-light hidden md:block hover:bg-sky-500"
+            className="bg-primary cursor-pointer text-white px-8 py-3 rounded-full font-light hidden md:block hover:bg-sky-500"
           >
             Create Account
           </button>

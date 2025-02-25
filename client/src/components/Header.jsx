@@ -1,14 +1,16 @@
-import { assets } from "../assets/assets"
 import { useRef } from "react"
+import { assets } from "../assets/assets"
 
 const Header = () => {
+  // TODO: useRef scroll not working
   const specialityMenuRef = useRef(null)
 
   const scrollToSpecialityMenu = () => {
-    specialityMenuRef.current.scrollIntoView({
+    console.log("Button Clicked!")
+    specialityMenuRef.current?.scrollIntoView({
       behaviour: "smooth",
-      block: "start",
     })
+    console.log(specialityMenuRef.current)
   }
 
   return (
@@ -30,7 +32,7 @@ const Header = () => {
         <button
           href="#speciality"
           onClick={scrollToSpecialityMenu}
-          className="flex items-center gap-2 bg-white rounded-full px-8 py-3 text-gray-600 text-sm md:m-0 m-auto hover:scale-105 transition-all duration-300"
+          className="flex cursor-pointer items-center gap-2 bg-white rounded-full px-8 py-3 text-gray-600 text-sm md:m-0 m-auto hover:scale-105 transition-all duration-300"
         >
           Book Appointment
           <img className="w-3" src={assets.arrow_icon} />
