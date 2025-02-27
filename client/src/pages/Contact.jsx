@@ -17,7 +17,7 @@ const Contact = () => {
     },
     formGroup: {
       marginBottom: '15px',
-    },
+    }, /
     label: {
       display: 'block',
       marginBottom: '5px',
